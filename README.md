@@ -1,6 +1,8 @@
 # phpcharts
 PHP Class for charts support via Highcharts
 <br>
+The easiest way for a quick charting of your php application
+<br>
 Highcharts - сharting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. (http://www.highcharts.com/)
 
 #Using
